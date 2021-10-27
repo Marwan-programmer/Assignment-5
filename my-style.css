@@ -1,17 +1,5 @@
 
 
-p{
-
-    
-}
-
-
-
-
-
-
-
-
 * {
     box-sizing: border-box;
   }
@@ -265,14 +253,13 @@ font-size: 14px;
     color:#885fee;  
     display: inline-block;
     margin-right: 10px;
-    position:relative;
 }
 
 .info-experience .years h2{
 font-size: 20px;
 display: inline-block;
 }
- 
+/*  
 .years h2.number:after{
     content: '';
     position: absolute;
@@ -286,7 +273,7 @@ display: inline-block;
    
     padding: 2px;
    
-}
+} */
 
 .info-experience .call-us{
     padding-top: 90px;
